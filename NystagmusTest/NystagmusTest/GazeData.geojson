@@ -1,0 +1,194 @@
+{
+  "beginTime": 1595626843.445204,
+  "id": "7EBKD60-F1E8-4799-A3CB-78806270E72A",
+  "appID": "NystagmusTestApp",
+  "endTime": 1595626853.5600219,
+  "scanPath": [
+    {
+      "y": 294.72345417737961,
+      "timestamp": 4.0514789,
+      "x": 479.91125732660294,
+      "orientation": 3
+    },
+    {
+      "y": 287.79990407824516,
+      "timestamp": 5.068157,
+      "x": 484.62997680902481,
+      "orientation": 3
+    },
+    ...
+  ],
+  "scanPath": [
+    {
+      "y": 293.72345417737961,
+      "timestamp": 6.0514789,
+      "x": 481.93554554550294,
+      "orientation": 3
+    },
+    {
+      "y": 286.54870407825456,
+      "timestamp": 7.068157,
+      "x": 482.62997680902481,
+      "orientation": 3
+    },
+    ...
+  ],
+  "scanPath": [
+    {
+      "y": 296.043219848332894,
+      "timestamp": 8.0514789,
+      "x": 481.375498357938457,
+      "orientation": 3
+    },
+    {
+      "y": 295.344948794875485,
+      "timestamp": 9.068157,
+      "x": 484.62997680902481,
+      "orientation": 3
+    },
+    ...
+  ],
+  "scanPath": [
+    {
+      "y": 297.72345417737961,
+      "timestamp": 9.9514789,
+      "x": 479.91125732660294,
+      "orientation": 3
+    },
+    {
+      "y": 287.79990407824516,
+      "timestamp": 10.768157,
+      "x": 484.62997680902481,
+      "orientation": 3
+    },
+    ...
+  ],
+  "scanPath": [
+    {
+      "y": 297.72345417737961,
+      "timestamp": 12.0514789,
+      "x": 479.91125732660294,
+      "orientation": 3
+    },
+    {
+      "y": 287.79990407824516,
+      "timestamp": 13.068157,
+      "x": 484.62997680902481,
+      "orientation": 3
+    },
+    ...
+  ],
+  "scanPath": [
+    {
+      "y": 297.72345417737961,
+      "timestamp": 4.0514789,
+      "x": 479.91125732660294,
+      "orientation": 3
+    },
+    {
+      "y": 287.79990407824516,
+      "timestamp": 5.0681576,
+      "x": 484.62997680902481,
+      "orientation": 3
+    },
+    ...
+  ],
+  "scanPath": [
+    {
+      "y": 297.72345417737961,
+      "timestamp": 6.0514789,
+      "x": 479.91125732660294,
+      "orientation": 3
+    },
+    {
+      "y": 287.79990407824516,
+      "timestamp": 7.068157,
+      "x": 484.62997680902481,
+      "orientation": 3
+    },
+    ...
+  ],
+  "scanPath": [
+    {
+      "y": 297.72345417737961,
+      "timestamp": 8.0514789,
+      "x": 479.91125732660294,
+      "orientation": 3
+    },
+    {
+      "y": 287.79990407824516,
+      "timestamp": 9.068157,
+      "x": 484.62997680902481,
+      "orientation": 3
+    },
+    ...
+  ],
+  "scanPath": [
+    {
+      "y": 297.72345417737961,
+      "timestamp": 9.9514789,
+      "x": 479.91125732660294,
+      "orientation": 3
+    },
+    {
+      "y": 287.79990407824516,
+      "timestamp": 10.768157,
+      "x": 484.62997680902481,
+      "orientation": 3
+    },
+    ...
+  ],
+  "scanPath": [
+    {
+      "y": 297.72345417737961,
+      "timestamp": 12.0514789,
+      "x": 479.91125732660294,
+      "orientation": 3
+    },
+    {
+      "y": 287.79990407824516,
+      "timestamp": 13.068157,
+      "x": 484.62997680902481,
+      "orientation": 3
+    },
+    ...
+  ],
+  "blendShapes": {
+    "eyeBlink_L": [
+      {
+        "blendShapeLocation": "eyeBlink_L",
+        "value": 0,
+        "timestamp": 13.0514789,
+        "orientation": 3
+      },
+      {
+        "blendShapeLocation": "eyeBlink_L",
+        "value": 0,
+        "timestamp": 14.068157,
+        "orientation": 3
+      },
+      ...
+    ],
+    "eyeBlink_R": [
+      {
+        "blendShapeLocation": "eyeBlink_R",
+        "value": 0,
+        "timestamp": 13.0514789,
+        "orientation": 3
+      },
+      {
+        "blendShapeLocation": "eyeBlink_R",
+        "value": 0,
+        "timestamp": 14.068157,
+        "orientation": 3
+      },
+      ...
+    ]
+  },
+  "deviceInfo": {
+    "systemVersion": "13.5.1",
+    "systemName": "iOS",
+    "model": "iPad8,1",
+    "screenSize": [834, 1194]
+  }
+}
