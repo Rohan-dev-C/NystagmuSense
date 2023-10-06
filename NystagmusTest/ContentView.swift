@@ -3,6 +3,7 @@ import Combine
 import EyeTracking
 
 var backgroundAnimationFinished = false
+var x = 0
 
 struct MovingLines: View {
     let lineWidth: CGFloat = 5
