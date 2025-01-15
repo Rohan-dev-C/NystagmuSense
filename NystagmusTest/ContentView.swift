@@ -8,7 +8,7 @@ var x = 0
 struct MovingLines: View {
     let lineWidth: CGFloat = 5
     let lineHeight: CGFloat = 20
-    let lineSpacing: CGFloat = 50 // Adjust the spacing between lines
+    let lineSpacing: CGFloat = 50 
     let lineSpeed: Double
     let backgroundAnimationDuration: Double = 2.0
 
