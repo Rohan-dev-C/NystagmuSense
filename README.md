@@ -1,7 +1,8 @@
 # Nystagmus Test App for Contrast Sensitivity Function
 
-## Requirements
+- complete Version still in progress, need to improve accuracy and data collection
 
+## Requirements
  - MacOS computer that can run Xcode
  - iPhone 12 or newer
  - A lightning to USB-C cable
