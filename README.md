@@ -1,4 +1,4 @@
-# Nystagmus Test App for Contrast Sensitivity Function
+# App for Measuring Contrast Sensitivity Function
 
 - working Version still in progress, need to improve accuracy and data collection
 
