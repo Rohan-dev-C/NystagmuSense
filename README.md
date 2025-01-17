@@ -1,6 +1,6 @@
 # Nystagmus Test App for Contrast Sensitivity Function
 
-- complete Version still in progress, need to improve accuracy and data collection
+- working Version still in progress, need to improve accuracy and data collection
 
 ## Requirements
  - MacOS computer that can run Xcode
