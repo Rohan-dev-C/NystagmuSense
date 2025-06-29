@@ -18,7 +18,7 @@ Optokinetic nystagmus is a reflex of the nervous system when a person is trackin
 ‭after taking the common log of that value, it directly correlates to the user’s expected contrast sensitivity‬
 ‭function.‬
 
-
+---
 ### Work In Progress, Working Version Requires IPhone >12 & IOS >14. 
--- 
+---
 Improving Accuracy of Eye Measurements
