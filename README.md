@@ -20,3 +20,5 @@ Optokinetic nystagmus is a reflex of the nervous system when a person is trackin
 
 
 ### Work In Progress, Working Version Requires IPhone >12 & IOS >14. 
+-- 
+Improving Accuracy of Eye Measurements
