@@ -13,8 +13,8 @@ struct FadingStripeView: View {
     @Binding var shade: Double               // 0 (white) … 100 (black)
 
     // MARK: - Tunables
-    private let stripeWidthRatio: CGFloat = 0.01   // 1 % of screen width ≈ 3-4 px
-    private let speedPixelsPerSec   : CGFloat = 60 // how fast stripes travel
+    private let stripeWidthRatio: CGFloat = 0.02   // 1 % of screen width ≈ 3-4 px
+    private let speedPixelsPerSec   : CGFloat = 90// how fast stripes travel
     private let fadeHalfCycle       : Double  = 30 // seconds (white↔︎black)
 
     // MARK: - Animation state
@@ -40,7 +40,7 @@ struct FadingStripeView: View {
     private func stripeWidth(size: CGSize) -> CGFloat {
         max(1, size.width * stripeWidthRatio)        // at least 1 px
     }
-    private func pitch(size: CGSize) -> CGFloat { stripeWidth(size: size) * 2 }
+    private func pitch(size: CGSize) -> CGFloat { stripeWidth(size: size) * 2.4 }
 
     private func drawStripes(in ctx: inout GraphicsContext,
                              size: CGSize,

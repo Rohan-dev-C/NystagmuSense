@@ -15,8 +15,11 @@ final class HistoryViewModel: ObservableObject {
         let req = TestResult.fetchRequest()
         req.sortDescriptors = [.init(keyPath: \TestResult.date, ascending: false)]
 
-        // Cast result to [TestResult]
-        results = (try? ctx.fetch(req) as? [TestResult]) ?? []
+        do {
+            results = try ctx.fetch(req)
+        } catch {
+            assertionFailure("Fetch failed: \(error)")
+            results = []
+        }
     }
-
 }
