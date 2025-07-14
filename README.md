@@ -19,6 +19,5 @@ after taking the common log of that value, it directly correlates to the user’
 function.
 
 ---
-### Work In Progress, Working Version Requires IPhone >12 & IOS >14. 
+##### Reach out to rrs248@cornell.edu for access - Currently Improving Accuracy of Eye Measurement
 ---
-Improving Accuracy of Eye Measurements
