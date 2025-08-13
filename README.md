@@ -19,5 +19,5 @@ after taking the common log of that value, it directly correlates to the user’
 function.
 
 ---
-##### Reach out to rrs248@cornell.edu for access - Heuristic Signalling Algorithm
+##### Reach out to rrs248@cornell.edu for access - Heuristic Signalling Algorithm under development
 ---
